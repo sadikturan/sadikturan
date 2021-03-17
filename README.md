@@ -1,8 +1,9 @@
+<!--
 ### Merhaba 👋
 
 [![Website](https://img.shields.io/website?label=sadikturan.com&style=for-the-badge&url=https%3A%2F%2Fsadikturan.com)](https://sadikturan.com)
 
-<!--
+
 ### Sosyal Medya Hesaplarım:
 
 [<img align="left" alt="karaltan.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karaltan.wordpress.com/)
