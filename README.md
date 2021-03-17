@@ -1,15 +1,6 @@
 ### Merhaba 👋
 
-<!-- **karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
-- 🔭 I’m currently working in Sabancı M.TA.L http://sabancimtal.meb.k12.tr/
-- 🌱 I’m currently learning {Flutter}
-- 👯 I’m looking to collaborate on {Flutter}
-- 🤔 I’m looking for help with {Flutter}
-
-## Eş, Baba, Öğrenci, Öğretmen!!
-[![Website](https://img.shields.io/website?label=karaltan.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://karaltan.wordpress.com)
+[![Website](https://img.shields.io/website?label=sadikturan.com&style=for-the-badge&url=https%3A%2F%2Fsadikturan.com)](https://sadikturan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/karaltan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkaraltan&screen_name=karaltan)
 
 ### Sosyal Medya Hesaplarım:
