@@ -1,8 +1,8 @@
 ### Merhaba 👋
 
 [![Website](https://img.shields.io/website?label=sadikturan.com&style=for-the-badge&url=https%3A%2F%2Fsadikturan.com)](https://sadikturan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/karaltan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkaraltan&screen_name=karaltan)
 
+<!--
 ### Sosyal Medya Hesaplarım:
 
 [<img align="left" alt="karaltan.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karaltan.wordpress.com/)
@@ -28,3 +28,5 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br />
 <br />
+
+-->
