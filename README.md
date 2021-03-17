@@ -20,7 +20,7 @@
 [<img align="left" alt="karaltan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/altan-karaalp-0a85875b/)
 <br /><br />
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=karaltan&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=sadikturan&show_icons=true&theme=gradient) 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/karaltan/) 
