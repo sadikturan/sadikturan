@@ -1,33 +1,18 @@
-<!--
-### Merhaba 👋
+Kurslarımı incelemek için [sadikturan.com](https://sadikturan.com/) adresini ziyaret edebilirsiniz.
 
-[![Website](https://img.shields.io/website?label=sadikturan.com&style=for-the-badge&url=https%3A%2F%2Fsadikturan.com)](https://sadikturan.com)
-
-
-### Sosyal Medya Hesaplarım:
-
-[<img align="left" alt="karaltan.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karaltan.wordpress.com/)
-[<img align="left" alt="karaltan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCtOmBZ3P8XEJ8wGhXITsQqw)
-[<img align="left" alt="karaltan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/karaltan)
-[<img align="left" alt="karaltan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/altan-karaalp-0a85875b/)
-<br /><br />
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=sadikturan&show_icons=true&theme=gradient) 
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/karaltan/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@karaltan) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-square&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://karaltan.wordpress.com/)
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<br />
-<br />
-
--->
+* [Komple Uygulamalı Web Geliştirme Eğitimi](https://www.udemy.com/course/komple-web-developer-kursu/?referralCode=5D4498D410A2750305C1)
+* [.NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme](https://www.udemy.com/course/aspnet-core-web-api-react-dersleri/?referralCode=1A6C9FF45C4E93AA198A)
+* [Python ile Sıfırdan İleri Seviye Python Programlama](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46)
+* [Python Django ile Sıfırdan İleri Seviye Web Geliştirme](https://www.udemy.com/course/python-django-dersleri/?referralCode=55F7C66D793B9748D5D4)
+* [Asp.Net Core 8.0 ile Sıfırdan İleri Seviye Web Geliştirme](https://www.udemy.com/course/asp-net-core-dersleri/?referralCode=9A3BA8DB9E7115320DE2)
+* [Sıfırdan İleri Seviye Modern Javascript Dersleri ES7+](https://www.udemy.com/course/modern-javascript-kursu/?referralCode=039B2533A42D1A45FD32)
+* [Node.js ile Sıfırdan İleri Seviye Web Geliştirme](https://www.udemy.com/course/komple-web-gelistirme-kursu-nodejs/?referralCode=11FD99AE510C32F9F77F)
+* [Angular 12 ile Sıfırdan İleri Seviye Web Geliştirme](https://www.udemy.com/course/angular-dersleri/?referralCode=296CF5D100064B0E29FC)
+* [.Net Core Web Api & Angular ile Proje Geliştirme Kursu](https://www.udemy.com/course/aspnet-core-web-api-angular-dersleri/?referralCode=8573269EFC5B46285B43)
+* [Sıfırdan Uygulamalı React Geliştirme: Hooks, Redux & Firebase](https://www.udemy.com/course/react-dersleri/?referralCode=BA852C35D95DCF3D243E)
+* [C# Kursu: Yeni Başlayanlar için C# Programlama Dersleri](https://www.udemy.com/course/komple-uygulamali-programlama-egitimi-yeni-baslayanlar/?referralCode=1D40058027DF00FE70BF)
+* [Bootstrap 5 ile Premium Web Tasarım Proje Geliştirme Kursu](https://www.udemy.com/course/bootstrap-dersleri/?referralCode=CEC007E59A2186379453)
+* [Sıfırdan Uygulamalı SQL Veri Tabanı Dersleri: MySQL & MsSQL](https://www.udemy.com/course/sql-dersleri/?referralCode=C636096751D8BF035F90)
+* [Php ile Sıfırdan İleri Seviye Web Programlama Kursu](https://www.udemy.com/course/php-dersleri/?referralCode=FA3ABEEB093FB4BD7ABD)
+* [Mobil Uygulama Kursu: Xamarin ile Android ve IOS Geliştirme](https://www.udemy.com/course/xamarin-dersleri/?referralCode=11244D43D35056F44EDC)
+* [E-Ticaret Kursu: Katmanlı Mimari ile Core Mvc Dersleri](https://www.udemy.com/course/aspnet-core-mvc-kursu/?referralCode=DCACE3376E0811F5BDA9)
