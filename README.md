@@ -1,6 +1,7 @@
 Kurslarımı incelemek için [sadikturan.com](https://sadikturan.com/) adresini ziyaret edebilirsiniz.
 
 * [Komple Uygulamalı Web Geliştirme Eğitimi](https://www.udemy.com/course/komple-web-developer-kursu/?referralCode=5D4498D410A2750305C1)
+* [Tailwind CSS: Uygulamalı Projelerle Web Siteni Tasarla](https://www.udemy.com/course/tailwind-css-dersleri/?referralCode=ADB13B10D029141DF27C)
 * [.NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme](https://www.udemy.com/course/aspnet-core-web-api-react-dersleri/?referralCode=1A6C9FF45C4E93AA198A)
 * [Python ile Sıfırdan İleri Seviye Python Programlama](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46)
 * [Python Django ile Sıfırdan İleri Seviye Web Geliştirme](https://www.udemy.com/course/python-django-dersleri/?referralCode=55F7C66D793B9748D5D4)
