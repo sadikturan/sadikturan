@@ -1,4 +1,4 @@
-Kurslarımı incelemek ve indirim kuponu almak için [sadikturan.com](https://sadikturan.com/) adresini ziyaret edebilirsiniz.
+Kurslarımı incelemek ve indirim kuponu almak için [kodatolyem.com](https://kodatolyem.com/) adresini ziyaret edebilirsiniz.
 
 - [Komple Uygulamalı Web Geliştirme Eğitimi](https://www.udemy.com/course/komple-web-developer-kursu/?referralCode=5D4498D410A2750305C1)
 - [Python Django ile RestFull API Geliştirme](https://www.udemy.com/course/python-django-ile-restfull-api-gelistirme/?referralCode=0CD377DED29947D7CCDC)
