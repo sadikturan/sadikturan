@@ -1,1 +1,1 @@
-Tüm kursları incelemek ve indirim kuponu almak için [kodatolyem.com](https://sadikturan.com/) adresini ziyaret edebilirsiniz.
+Tüm kursları incelemek ve indirim kuponu almak için [sadikturan.com](https://sadikturan.com/) adresini ziyaret edebilirsiniz.
