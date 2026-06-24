@@ -1,1 +1,7 @@
 
+Türkiye Yazılım Akademisi bünyesinde hazırladığım, temel düzeyden uzmanlığa kadar yazılım geliştirme süreçlerini kapsayan ücretsiz eğitim serilerine aşağıdan ulaşabilirsiniz. Güncel müfredatlarla desteklenen bu kurslar, kurumsal standartlarda kod yazmayı uygulamalı projelerle öğretmektedir.
+
+| Kurs Adı | Platform / Bağlantı | Erişim |
+| :--- | :--- | :--- |
+| **Python ile Temelden Uzmanlığa Programlama Eğitimi** | [Kursu İncele 🚀](https://turkiyeyazilimakademisi.com/kurslar/python-dersleri) | Ücretsiz |
+| **Python ile Yapay Zeka Uygulamaları Geliştirme** | [Kursu İncele 🧠](https://turkiyeyazilimakademisi.com/kurslar/python-yapay-zeka-uygulamalari-gelistirme) | Ücretsiz |
