@@ -6,3 +6,4 @@ Türkiye Yazılım Akademisi bünyesinde hazırladığım, temel düzeyden uzman
 | **Python ile Temelden Uzmanlığa Programlama Eğitimi** | [Kursu İncele 🚀](https://turkiyeyazilimakademisi.com/kurslar/python-dersleri) | Ücretsiz |
 | **Python ile Yapay Zeka Uygulamaları Geliştirme** | [Kursu İncele 🧠](https://turkiyeyazilimakademisi.com/kurslar/python-yapay-zeka-uygulamalari-gelistirme) | Ücretsiz |
 | **Komple Uygulamalı Web Geliştirme Eğitimi** | [Kursu İncele 🧠](https://www.turkiyeyazilimakademisi.com/kurslar/komple-uygulamali-web-gelistirme-egitimi) | Ücretsiz |
+| **Asp.Net Core ile Sıfırdan İleri Seviye Web Geliştirme** | [Kursu İncele 🧠](https://turkiyeyazilimakademisi.com/kurslar/aspnet-core-dersleri) | Ücretsiz |
